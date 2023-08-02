@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 class WebInit extends Controller
 {
+
     public function __invoke()
     {
         $user = null;
