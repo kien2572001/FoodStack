@@ -12,6 +12,12 @@ Preferred for convenience during development:
 
 If you don't have the dependencies above, you can still use the ones provided inside docker containers.
 
+## Test URL
+- FE: http://localhost:8000/
+- BE: http://localhost:8000/api/web-init
+- PHPMyAdmin: http://localhost:8080
+- Swagger: http://localhost:8000/api/documentation
+
 ## Setup development environment
 
 Run the following command in the root of project to bootstrap the development environment.
